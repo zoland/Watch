@@ -1,0 +1,13 @@
+{
+  "name": "Watch",
+  "keywords": "RTC, PCF8563, RTC_Millis, Watch",
+  "description": "A library that makes interfacing many Real Time Clock modules easy. With same Watch class which supports all standart conversions.",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/ZolAnd/zoland.git"
+  },
+  "version": "1.0.0",
+  "frameworks": "arduino","esp8266",
+  "platforms": "*"
+}
